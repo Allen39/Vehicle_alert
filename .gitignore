@@ -1,0 +1,10 @@
+*.idea
+*.class
+*.jar
+*.lst
+*.original
+*.env
+*.iml
+.idea/
+.eclipse
+target/
